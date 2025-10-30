@@ -25,4 +25,4 @@ __Udgivelse__
 
 1. Opret versions tag under releases i format `2.2.0`
 2. Komprimer indhold af `/output` til `zip.zip` og upload til release
-3. Udgiv release med versions tag
+3. Udgiv release med release title som matcher versions tag
