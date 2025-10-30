@@ -1,0 +1,168 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 12,
+        "y": 12356
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 5003.5,
+            "y": 12860.937269210815
+          },
+          "nodeIndex": "VIP",
+          "nodeLineageTag": "384c68af-22cd-4b9b-9a8d-cc56648d39ae",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12,
+            "y": 12901.937269210815
+          },
+          "nodeIndex": "Revisionsdata",
+          "size": {
+            "height": 300,
+            "width": 235
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8291.5,
+            "y": 12848.937269210815
+          },
+          "nodeIndex": "Målinger",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8835.5,
+            "y": 12605.812269210815
+          },
+          "nodeIndex": "Kommuner",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9379.5,
+            "y": 12287.749769210815
+          },
+          "nodeIndex": "Dagstimer",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9945.5,
+            "y": 12091.960706710815
+          },
+          "nodeIndex": "Revisionslog",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10217.5,
+            "y": 11998.413831710815
+          },
+          "nodeIndex": "Formål",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10761.5,
+            "y": 11520.038831710815
+          },
+          "nodeIndex": "Overvågninger",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11033.5,
+            "y": 9913.4049205780029
+          },
+          "nodeIndex": "Overvågning",
+          "nodeLineageTag": "cbdaddd3-6279-4dd5-907c-b583d6525a3e",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8563.5,
+            "y": 12745.937269210815
+          },
+          "nodeIndex": "Alarmer",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11849.5,
+            "y": 6700.5824947357178
+          },
+          "nodeIndex": "Søgekriterier",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12121.5,
+            "y": 5384.2048854827881
+          },
+          "nodeIndex": "Faneblad",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Alle tabeller",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Alle tabeller",
+  "defaultDiagram": "Alle tabeller"
+}
